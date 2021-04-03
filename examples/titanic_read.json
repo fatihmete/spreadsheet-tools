@@ -1,0 +1,35 @@
+{
+    "type": "multiple_read",
+    "sheets": [
+        "Sheet1"
+    ],
+    "rules": [
+        [
+            "Sheet1",
+            "B2",
+            "Name"
+        ],
+        [
+            "Sheet1",
+            "G2",
+            "Sex"
+        ],
+        [
+            "Sheet1",
+            "B4",
+            "Age"
+        ],
+        [
+            "Sheet1",
+            "G4",
+            "Cabin"
+        ],
+        [
+            "Sheet1",
+            "B6",
+            "Fare"
+        ]
+    ],
+    "ouput_file": "",
+    "input_files_path": ""
+}

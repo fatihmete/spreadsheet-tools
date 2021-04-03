@@ -1,0 +1,36 @@
+{
+    "type": "multiple_write",
+    "sheets": [
+        "Sheet1"
+    ],
+    "rules": [
+        [
+            "name",
+            "Sheet1",
+            "B2"
+        ],
+        [
+            "sex",
+            "Sheet1",
+            "G2"
+        ],
+        [
+            "age",
+            "Sheet1",
+            "B4"
+        ],
+        [
+            "cabin",
+            "Sheet1",
+            "G4"
+        ],
+        [
+            "fare",
+            "Sheet1",
+            "B6"
+        ]
+    ],
+    "input_file": "",
+    "output_files_path": "",
+    "template_file": ""
+}

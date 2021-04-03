@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+__pycache__
+build
+dist
+venv
+spreadsheet_tools.egg-info
