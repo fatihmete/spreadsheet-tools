@@ -35,7 +35,7 @@ in shell run command:
 
 `spreadsheet-tools`
 
-## Windows Users Download Packages
+## Prebuilt Packages (only Windows)
 [Click here](https://github.com/fatihmete/spreadsheet-tools/releases) to download packages. After download run st.exe
 
 ## Run from code
